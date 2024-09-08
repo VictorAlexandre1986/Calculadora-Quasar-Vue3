@@ -4,25 +4,31 @@ Calculadora
 
 ## Install the dependencies
 ```bash
-yarn
-# or
 npm install
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
-quasar dev
+npm run dev
 ```
 
 
 ### Lint the files
 ```bash
-yarn lint
-# or
 npm run lint
 ```
 
+### Para buildar para android
+```
+quasar mode add capacitor
+quasar dev -m capacitor -T android
+```
 
+### Para buildar para ios
+```
+quasar mode add capacitor
+quasar dev -m capacitor -T ios
+```
 
 ### Build the app for production
 ```bash
