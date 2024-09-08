@@ -2,6 +2,15 @@
 
 Calculadora
 
+## Tecnologias utilizadas 💻
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Javascript</li>
+  <li>Vue3 composition</li>
+  <li>Quasar</li>
+</ul>
+
 ## Install the dependencies
 ```bash
 npm install
@@ -37,3 +46,8 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+
+
+# Screenshot
+
+<img src="">
